@@ -4,4 +4,4 @@ This program takes as input an expression and convert it into three address code
 
 A sample output is given below :
 
-<kbd><img src ="https://github.com/MaheshBabu11/S7-CSE-Compiler-lab-KTU/blob/main/exp8/output.png"/ ></kbd>https://github.com/MaheshBabu11/S7-CSE-Compiler-lab-KTU/edit/main/exp8/README.md
+<kbd><img src ="https://github.com/MaheshBabu11/S7-CSE-Compiler-lab-KTU/blob/main/exp8/output.png"></kbd>
